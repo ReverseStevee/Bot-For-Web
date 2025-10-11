@@ -83,10 +83,10 @@ stats = {
 WEBSITES = [
     "https://studio.firebase.google.com/vps123-74546702",
     "https://operating-fountain-removed-frost.trycloudflare.com/vnc.html?autoconnect=true&password=123456",
-    "https://dashboard.render.com/web/srv-d3jql5ali9vc73f24bj0/deploys/dep-d3jql7qli9vc73f24d60?r=2025-10-09%4012%3A28%3A21%7E2025-10-09%4012%3A35%3A10",
-    "https://uptime-bot-beta.onrender.com",
-    "https://verbose-doodle-jjp4jv69qxpr255wp-6901.app.github.dev/vnc.html?autoconnect=true&password=123456",
-    "https://novps.onrender.com/"
+    "https://bot-1-hvtn.onrender.com",
+    "https://bot-2-cta8.onrender.com",
+    "https://dashboard.render.com/web/srv-d3ktd0c9c44c738su29g/deploys/dep-d3ktd1k9c44c738su3l0",
+    "https://dashboard.render.com/web/srv-d3ktdqb3fgac73a3rkt0/deploys/dep-d3ktdrr3fgac73a3rlmg"
 ]
 
 # Initialize website list
