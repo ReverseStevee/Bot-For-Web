@@ -96,6 +96,8 @@ WEBSITES = [
     "https://bot-2-cta8.onrender.com",
     "https://dashboard.render.com/web/srv-d3ktd0c9c44c738su29g/deploys/dep-d3ktd1k9c44c738su3l0",
     "https://bot-for-web.onrender.com",
+    "https://studio.firebase.google.com/u/1/unli-64407284",
+    "https://detailed-duck-dried-never.trycloudflare.com/vnc.html?autoconnect=true&password=123456",
     "https://dashboard.render.com/web/srv-d3ktdqb3fgac73a3rkt0/deploys/dep-d3ktdrr3fgac73a3rlmg"
 ]
 
