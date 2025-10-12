@@ -89,7 +89,10 @@ WEBSITES = [
     "https://bot-for-web.onrender.com",
     "https://studio.firebase.google.com/u/1/unli-64407284",
     "https://detailed-duck-dried-never.trycloudflare.com/vnc.html?autoconnect=true&password=123456",
-    "https://dashboard.render.com/web/srv-d3ktdqb3fgac73a3rkt0/deploys/dep-d3ktdrr3fgac73a3rlmg"
+    "https://dashboard.render.com/web/srv-d3ktdqb3fgac73a3rkt0/deploys/dep-d3ktdrr3fgac73a3rlmg",
+    "https://studio.firebase.google.com/u/1/ipv4-43990111",
+    "https://two4-7-vps-not-rdp.onrender.com",
+    "https://two4-7-vps-not-rdp-1.onrender.com"
 ]
 
 # Initialize website list
