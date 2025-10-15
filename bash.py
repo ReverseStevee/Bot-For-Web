@@ -239,7 +239,7 @@ def boot():
                 scan(u)
                 time.sleep(1)
     threading.Thread(target=bg_scan, daemon=True).start()
-    socket.run(app, host="0.0.0.0", port=PORT, debug=False)
+    socket.run(app, host="0.0.0.0", port=PORT, debug=False, allow_unsafe_werkzeug=True)
 
 if __name__ == "__main__":
     boot()
